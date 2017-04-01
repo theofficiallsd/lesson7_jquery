@@ -1,0 +1,3 @@
+In this extra credit assignment, I animated the headers in the HTML file to be cyan, and to drop the list items fast.
+I also added a DOM traverse by selecting the first h3 element, followed by the next h3 element.
+The CSS change that I made, replaced all of the list items with "GO NOLES!"
